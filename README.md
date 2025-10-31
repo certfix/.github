@@ -1,3 +1,3 @@
-# CertFix
+# .github
 
-Automating Trust, One Certificate at a Time
+Public CertFix Organization Profile
